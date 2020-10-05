@@ -1,2 +1,6 @@
 feedparser
 python-telegram-bot
+python-dateutil
+FilterHTML
+psycopg2
+bs4
